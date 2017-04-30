@@ -1,0 +1,8 @@
+{
+  "name": "Gallery",
+  "version": "1.0.0",
+  "keywords": ["util", "functional", "server", "client", "browser"],
+  "author": "ehsun7b",
+  "contributors": [],
+  "dependencies": {}
+}
